@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a student databa
 
 ## Entity Relationship Diagram
 
-![OUTPUT](./er.png)
+![OUTPUT](./er.jpeg)
 
 ## DESIGN STEPS
 
